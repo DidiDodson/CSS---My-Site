@@ -1,3 +1,35 @@
+.top-container {
+  background-color: #A0BCC2;
+  padding: 20px;
+}
+
+.mid-container {
+  background-color: #DAE5D0;
+}
+
+.bottom-container {
+  background-color:  #FEFBE7;
+}
+
 body {
-  background-color: navy;
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+.cloud-1 {
+  position: absolute;
+  display: inline-block;
+}
+.cloud-2 {
+  position: absolute;
+  left: 200px;
+  top: 10px;
+  display: inline-block;
 }
